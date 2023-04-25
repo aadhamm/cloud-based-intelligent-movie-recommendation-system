@@ -29,7 +29,4 @@ To use this project, follow these steps:
 
 If you'd like to contribute to this project, feel free to submit a pull request with your changes. Before submitting a pull request, please make sure that your code passes the existing tests and that you've added tests for any new functionality.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
